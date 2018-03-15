@@ -1,5 +1,6 @@
-# My favorite Math Art
-Some of my favorite math art (not made by me)
+# My Favorite Math Art
+
+Some of my favorite math art.
 
 # Interesting primitives
 
